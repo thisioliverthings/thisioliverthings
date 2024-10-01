@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @thisioliverthings
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, @thisioliverthings!
 
-<!---
-thisioliverthings/thisioliverthings is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 **Interests**: 
+I specialize in deep machine learning and enjoy building bots for platforms like Telegram and Discord. Always looking to explore cutting-edge technologies and push the limits of AI development.
+
+🌟 **Pronouns**: He/Him
+
+🎉 **Fun Fact**: I learned all my basics when I first started from YouTube!
+
+📬 **Reach Me**: 
+Feel free to contact me for collaborations or inquiries on [Telegram](https://t.me/oliceer). I'm always open to interesting conversations and projects!
